@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Swimpool\Swimpool\bin\Debug\Swimpool.exe.config
+C:\Users\user\source\repos\Swimpool\Swimpool\bin\Debug\Swimpool.exe
+C:\Users\user\source\repos\Swimpool\Swimpool\bin\Debug\Swimpool.pdb
+C:\Users\user\source\repos\Swimpool\Swimpool\obj\Debug\Swimpool.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Swimpool\Swimpool\obj\Debug\Swimpool.Form1.resources
+C:\Users\user\source\repos\Swimpool\Swimpool\obj\Debug\Swimpool.Properties.Resources.resources
+C:\Users\user\source\repos\Swimpool\Swimpool\obj\Debug\Swimpool.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Swimpool\Swimpool\obj\Debug\Swimpool.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Swimpool\Swimpool\obj\Debug\Swimpool.exe
+C:\Users\user\source\repos\Swimpool\Swimpool\obj\Debug\Swimpool.pdb
